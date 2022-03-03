@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fullname": "Ben",
+      "email": "ben@gmail.com",
+      "phone": "0123456789",
+      "salary": "20000000"
+    },
+    {
+      "id": 3,
+      "fullname": "Quoc Anh",
+      "email": "quocanh@gmail.com",
+      "phone": "0966853790",
+      "salary": "30000000"
+    },
+    {
+      "id": 5,
+      "fullname": "Test05",
+      "email": "test05@gmail.com",
+      "phone": "03254879",
+      "salary": "10000000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

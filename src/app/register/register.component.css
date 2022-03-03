@@ -1,0 +1,30 @@
+.card{
+    border: none;
+    width: 450px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #1976d2;
+    border-radius: 20px;
+}
+._title{
+    color: #ffc107;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.label-txt{
+    color: #ffc107;
+    font-weight: 500;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+._txt{
+    color: #ffc107;
+}
+._already_title{
+    margin-top: 10px;
+    color: #ffc107;
+    text-decoration: none;
+}
